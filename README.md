@@ -1,4 +1,3 @@
-
 # 📸 Unsplash Infinite Scroll Gallery
 
 This is a **dynamic image gallery** built with **HTML, CSS, and JavaScript** that uses the **Unsplash API** to fetch and display random images with **infinite scrolling**. When the user scrolls near the bottom of the page, more photos are automatically loaded.
