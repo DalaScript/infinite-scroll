@@ -10,7 +10,7 @@ This is a **dynamic image gallery** built with **HTML, CSS, and JavaScript** tha
 
 ## 📚 Table of contents
 
-- [🔎 Overview](#overview)
+- [🔎 Overview](#-overview)
   - [📸 Screenshot](#-screenshot)
   - [🔗 Links](#-links)
   - [📌 Features](#-features)
