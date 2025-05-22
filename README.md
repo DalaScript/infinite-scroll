@@ -80,6 +80,11 @@ You can open `index.html` directly in your browser or use a local development se
 
 ### 🎓 What I Learned
 
+ - Handling API response flow with `async/await` and dynamic batch size
+ - Efficient infinite scroll logic using scroll position and load tracking
+ - Image load management for smoother UX and controlled rendering
+ - Clean DOM manipulation with reusable helper functions
+
   > 🚀 For me, this project was more about **practice** and gaining additional **experience**,  
   > rather than learning something entirely new.  
   >  
@@ -87,11 +92,6 @@ You can open `index.html` directly in your browser or use a local development se
   > I approached it with confidence — and still, I truly **enjoyed working on it**.  
   >  
   > 🎯 Overall, I consider this a very **valuable and enjoyable experience**.
-
- - Handling API response flow with `async/await` and dynamic batch size
- - Efficient infinite scroll logic using scroll position and load tracking
- - Image load management for smoother UX and controlled rendering
- - Clean DOM manipulation with reusable helper functions
 
 ### 🔙 Previous Project
 
