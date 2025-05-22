@@ -95,11 +95,11 @@ You can open `index.html` directly in your browser or use a local development se
 
 ### 🔙 Previous Project
 
- - Quote Generator → [View Repository](https://github.com/DalaScript/quote-generator)
+ - Quote Generator | *[Project 1/20]* → [View Repository](https://github.com/DalaScript/quote-generator)
 
 ### 🔜 Next Project
 
- - Picture in Picture → [View Repository](https://github.com/DalaScript/picture-in-picture)
+ - Picture in Picture | *[Project 3/20]* → [View Repository](https://github.com/DalaScript/picture-in-picture)
 
 ---
 
