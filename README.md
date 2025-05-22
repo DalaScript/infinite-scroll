@@ -43,9 +43,7 @@ This is a **dynamic image gallery** built with **HTML, CSS, and JavaScript** tha
 ### 📌 Features
 
  - ✅ Infinite Scroll to fetch more images on demand
- - ✅ Responsive layout for both desktop and mobile
  - ✅ Smooth image loading experience
- - ✅ Styled with custom fonts and media queries
 
 ---
 
@@ -76,19 +74,19 @@ You can open `index.html` directly in your browser or use a local development se
 ### 🛠️ Built with
 
  - HTML5
- - CSS3 (Media Queries + Google Fonts)
+ - CSS3
  - Vanilla JavaScript
  - Unsplash API
 
 ### 🎓 What I Learned
 
-  > 🚀 This project was more about **practice** and gaining additional **experience**,  
+  > 🚀 For me, this project was more about **practice** and gaining additional **experience**,  
   > rather than learning something entirely new.  
   >  
   > 👨‍💻 Since I’m not a beginner and already familiar with these technologies,  
   > I approached it with confidence — and still, I truly **enjoyed working on it**.  
   >  
-  > 🎯 Overall, I consider this a very **valuable and rewarding experience**.
+  > 🎯 Overall, I consider this a very **valuable and enjoyable experience**.
 
  - Handling API response flow with `async/await` and dynamic batch size
  - Efficient infinite scroll logic using scroll position and load tracking
